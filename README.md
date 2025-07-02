@@ -8,7 +8,9 @@
 
 ## 🖼️ Dashboard Preview
 
-[![Dashboard Preview](Executive Overview (1).png)]
+## 📊 Dashboard Preview
+
+[![Dashboard Preview](assets/dashboard_preview.png)]
 
 ---
 
