@@ -2,9 +2,13 @@
 
 > **Simulated case study to demonstrate data analysis logic and product thinking.**  
 > Tools: SQL, Excel, Tableau, GitHub  
-> 👀 [View Dashboard]([#]) *[(https://public.tableau.com/views/ABTestE-commerceLivestreamsActiveUserParticipationOptimization/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))]*
+> 🔗 [View the Interactive Tableau Dashboard](https://public.tableau.com/shared/6C6R9HRCK?:display_count=n&:origin=viz_share_link)
 
+---
 
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview](./Executive-overview.png)
 ---
 
 ## 📊 Problem Statement
