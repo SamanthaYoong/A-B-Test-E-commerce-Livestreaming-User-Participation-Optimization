@@ -8,7 +8,7 @@
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](./Executive-overview.png)
+![Dashboard Preview](Executive Overview (1).png)
 ---
 
 ## 📊 Problem Statement
