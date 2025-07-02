@@ -8,7 +8,7 @@
 
 ## 📊 Dashboard Preview
 
-[![Dashboard Preview](Executive_Overview_(1).png)
+[![Dashboard Preview](Executive_Overview_(1).png)]
 
 ---
 
