@@ -1,4 +1,4 @@
-# A/B Test: E-commerce Livestreaming User Participation Optimization
+# 📊 A/B Test: E-commerce Livestreaming User Participation Optimization
 
 > **Simulated case study to demonstrate data analysis logic and product thinking.**  
 > Tools: SQL, Excel, Tableau, GitHub  
