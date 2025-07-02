@@ -6,12 +6,6 @@
 
 ---
 
-## 📊 Dashboard Preview
-
-[![Dashboard Preview](Executive_Overview_(1).png)] (https://public.tableau.com/shared/6C6R9HRCK?:display_count=n&:origin=viz_share_link)
-
----
-
 ## 📊 Problem Statement
 
 User participation during e-commerce livestreams was underperforming, as indicated by low Clickthrough Rate (CTR) and Livestream Conversion Rate.  
