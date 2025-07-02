@@ -8,7 +8,7 @@
 
 ## 📊 Dashboard Preview
 
-[![Dashboard Preview](Executive Overview (1).png)]
+[![Dashboard Preview](Executive_Overview_1.png)(https://public.tableau.com/shared/6C6R9HRCK?:display_count=n&:origin=viz_share_link)
 
 ---
 
