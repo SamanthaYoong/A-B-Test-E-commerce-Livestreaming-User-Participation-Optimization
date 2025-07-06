@@ -1,4 +1,4 @@
-# 📊 A/B Test: E-commerce Livestreaming User Participation Optimization
+# 📈 A/B Test: E-commerce Livestreaming User Participation Optimization
 
 > **Simulated case study to demonstrate data analysis logic and product thinking.**  
 > Tools: SQL, Excel, Tableau, GitHub  
@@ -6,14 +6,14 @@
 
 ---
 
-## 📊 Problem Statement
+## 📈 Problem Statement
 
 User participation during e-commerce livestreams was underperforming, as indicated by low Clickthrough Rate (CTR) and Livestream Conversion Rate.  
 To remain competitive, increasing engagement and loyalty was critical.
 
 ---
 
-## 📊 Objective
+## 📈 Objective
 
 - Increase Clickthrough Rate by **20%**
 - Reduce Bounce Rate by **15%**
@@ -21,13 +21,13 @@ To remain competitive, increasing engagement and loyalty was critical.
 
 ---
 
-## 📊 Hypothesis
+## 📈 Hypothesis
 
 If we introduce **exclusive livestream-only prices** and add a **live chat overlay** directly on the display, user participation will increase — because customers are incentivized and influenced by real-time chat before purchasing.
 
 ---
 
-## 📊 Test Setup
+## 📈 Test Setup
 
 | Element        | Description                                                       |
 |----------------|-------------------------------------------------------------------|
@@ -46,7 +46,7 @@ If we introduce **exclusive livestream-only prices** and add a **live chat overl
 
 ---
 
-## 📊 Results (Simulated)
+## 📈 Results (Simulated)
 
 | Metric                     | Control (A) | Variant (B) | Uplift         |
 |----------------------------|-------------|-------------|----------------|
@@ -56,7 +56,7 @@ If we introduce **exclusive livestream-only prices** and add a **live chat overl
 
 ---
 
-## 📊 Insights & Interpretation
+## 📈 Insights & Interpretation
 
 - Variant B showed a **small CTR improvement** but a **decline in conversion rate**.
 - Customers may still **perceive prices as too high** or lack urgency to purchase.
@@ -64,7 +64,7 @@ If we introduce **exclusive livestream-only prices** and add a **live chat overl
 
 ---
 
-## 📊 Recommendations
+## 📈 Recommendations
 
 - Benchmark competitor pricing and **adjust perceived value**
 - Introduce **urgency triggers** (e.g. countdowns, limited offers)
@@ -73,7 +73,7 @@ If we introduce **exclusive livestream-only prices** and add a **live chat overl
 
 ---
 
-## 📊 Tools Used
+## 📈 Tools Used
 
 - **SQL** – Data shaping and filtering logic  
 - **Excel** – Mock dataset generation (10,000 rows)  
@@ -82,14 +82,14 @@ If we introduce **exclusive livestream-only prices** and add a **live chat overl
 
 ---
 
-## 📊 Reflection
+## 📈 Reflection
 
 This self-designed experiment helped me practice product analytics, hypothesis framing, test simulation, and dashboard communication.  
 Next, I plan to build a **Lifetime Value (LTV)** experiment to evaluate how pricing tiers influence retention and revenue.
 
 ---
 
-## 📊 Related Files
+## 📈 Related Files
 
 - 📄 `ab_test_dataset.csv` – Mock user-level data
 - 📊 `dashboard_link.twbx` – Tableau Public Dashboard *(link or file)*
